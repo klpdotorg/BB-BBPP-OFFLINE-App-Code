@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Tween 9 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":170,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":154},
+	"sourceSize": {"w":170,"h":154}
+}
+,{
+	"filename": "Tween 9 copy 2 instance 10001",
+	"frame": {"x":0,"y":154,"w":170,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":154},
+	"sourceSize": {"w":170,"h":154}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "11.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

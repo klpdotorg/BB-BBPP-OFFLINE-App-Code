@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 instance 10000",
+	"frame": {"x":0,"y":0,"w":159,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":204},
+	"sourceSize": {"w":159,"h":204}
+}
+,{
+	"filename": "Symbol 6 instance 10001",
+	"frame": {"x":159,"y":0,"w":159,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":204},
+	"sourceSize": {"w":159,"h":204}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Sphere image6.png",
+	"format": "RGBA8888",
+	"size": {"w":319,"h":204},
+	"scale": "1"
+}
+}

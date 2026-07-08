@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 instance 10000",
+	"frame": {"x":0,"y":0,"w":173,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":17},
+	"sourceSize": {"w":173,"h":17}
+}
+,{
+	"filename": "Symbol 6 instance 10001",
+	"frame": {"x":0,"y":17,"w":171,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":173,"h":17},
+	"sourceSize": {"w":173,"h":17}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "wood stick 1.png",
+	"format": "RGBA8888",
+	"size": {"w":189,"h":36},
+	"scale": "1"
+}
+}
