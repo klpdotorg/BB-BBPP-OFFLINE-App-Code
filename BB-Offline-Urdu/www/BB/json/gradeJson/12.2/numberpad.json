@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 17 copy 15 instance 10000",
+	"frame": {"x":0,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10001",
+	"frame": {"x":46,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10002",
+	"frame": {"x":92,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10003",
+	"frame": {"x":138,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10004",
+	"frame": {"x":184,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10005",
+	"frame": {"x":230,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10006",
+	"frame": {"x":276,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10007",
+	"frame": {"x":322,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10008",
+	"frame": {"x":368,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10009",
+	"frame": {"x":414,"y":0,"w":46,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":53},
+	"sourceSize": {"w":46,"h":53}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "3.png",
+	"format": "RGB8",
+	"size": {"w":467,"h":61},
+	"scale": "1"
+}
+}

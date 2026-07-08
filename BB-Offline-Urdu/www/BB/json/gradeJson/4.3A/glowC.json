@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"Symbol 41 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10001":
+{
+	"frame": {"x":291,"y":0,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10002":
+{
+	"frame": {"x":582,"y":0,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10003":
+{
+	"frame": {"x":0,"y":317,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10004":
+{
+	"frame": {"x":291,"y":317,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10005":
+{
+	"frame": {"x":582,"y":317,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10006":
+{
+	"frame": {"x":0,"y":634,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10007":
+{
+	"frame": {"x":291,"y":634,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10008":
+{
+	"frame": {"x":582,"y":634,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10009":
+{
+	"frame": {"x":0,"y":951,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+},
+"Symbol 41 instance 10010":
+{
+	"frame": {"x":291,"y":951,"w":291,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":317},
+	"sourceSize": {"w":291,"h":317}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "1000.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1548},
+	"scale": "1"
+}
+}

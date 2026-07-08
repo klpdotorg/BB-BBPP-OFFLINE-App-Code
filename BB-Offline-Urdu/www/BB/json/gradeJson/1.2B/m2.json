@@ -1,0 +1,83 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 27 instance 10000",
+	"frame": {"x":0,"y":0,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10001",
+	"frame": {"x":255,"y":0,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10002",
+	"frame": {"x":0,"y":185,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10003",
+	"frame": {"x":255,"y":185,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10004",
+	"frame": {"x":0,"y":370,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10005",
+	"frame": {"x":255,"y":370,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10006",
+	"frame": {"x":0,"y":555,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10007",
+	"frame": {"x":255,"y":555,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}
+,{
+	"filename": "Symbol 27 instance 10008",
+	"frame": {"x":0,"y":740,"w":255,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":185},
+	"sourceSize": {"w":255,"h":185}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "m2.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":949},
+	"scale": "1"
+}
+}

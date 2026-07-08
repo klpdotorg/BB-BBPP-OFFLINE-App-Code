@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 14 copy 5 instance 10000",
+	"frame": {"x":0,"y":0,"w":59,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":67,"h":69},
+	"sourceSize": {"w":67,"h":69}
+}
+,{
+	"filename": "Symbol 14 copy 5 instance 10001",
+	"frame": {"x":59,"y":0,"w":67,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":69},
+	"sourceSize": {"w":67,"h":69}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "eraser.png",
+	"format": "RGB8",
+	"size": {"w":128,"h":75},
+	"scale": "1"
+}
+}

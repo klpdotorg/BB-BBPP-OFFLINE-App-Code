@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 16 instance 10000",
+	"frame": {"x":0,"y":0,"w":183,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":192},
+	"sourceSize": {"w":183,"h":192}
+}
+,{
+	"filename": "Symbol 16 instance 10001",
+	"frame": {"x":183,"y":0,"w":183,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":192},
+	"sourceSize": {"w":183,"h":192}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Cylinder image9.png",
+	"format": "RGBA8888",
+	"size": {"w":369,"h":192},
+	"scale": "1"
+}
+}

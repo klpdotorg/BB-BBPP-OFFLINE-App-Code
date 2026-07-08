@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 14 copy 5 instance 10000",
+	"frame": {"x":0,"y":0,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":70},
+	"sourceSize": {"w":68,"h":70}
+}
+,{
+	"filename": "Symbol 14 copy 5 instance 10001",
+	"frame": {"x":0,"y":70,"w":68,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":70},
+	"sourceSize": {"w":68,"h":70}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Erase Button.png",
+	"format": "RGBA8888",
+	"size": {"w":71,"h":143},
+	"scale": "1"
+}
+}

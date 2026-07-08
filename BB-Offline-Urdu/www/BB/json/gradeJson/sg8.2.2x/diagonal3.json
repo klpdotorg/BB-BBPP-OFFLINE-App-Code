@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":253,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":252},
+	"sourceSize": {"w":253,"h":252}
+}
+,{
+	"filename": "Symbol 6 copy instance 10001",
+	"frame": {"x":0,"y":252,"w":253,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":252},
+	"sourceSize": {"w":253,"h":252}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "e3.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

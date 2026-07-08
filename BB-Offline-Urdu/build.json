@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathURD.jks",
+            "storePassword": "BBUrdu",
+            "alias": "easymathURD",
+            "password": "BBUrdu",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathURD.jks",
+            "storePassword": "BBUrdu",
+            "alias": "easymathURD",
+            "password": "BBUrdu",
+            "keystoreType": "jks"
+        }
+    }
+}
