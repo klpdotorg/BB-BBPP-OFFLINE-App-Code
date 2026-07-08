@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":86,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":179},
+	"sourceSize": {"w":86,"h":179}
+}
+,{
+	"filename": "Symbol 1 copy 2 instance 10001",
+	"frame": {"x":86,"y":0,"w":86,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":179},
+	"sourceSize": {"w":86,"h":179}
+}
+,{
+	"filename": "Symbol 1 copy 2 instance 10002",
+	"frame": {"x":172,"y":0,"w":86,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":179},
+	"sourceSize": {"w":86,"h":179}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "carrot bits glow2.png",
+	"format": "RGB8",
+	"size": {"w":270,"h":180},
+	"scale": "1"
+}
+}

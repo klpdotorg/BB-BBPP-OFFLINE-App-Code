@@ -1,0 +1,139 @@
+﻿{"frames": [
+
+{
+	"filename": "<Group>_373 instance 10000",
+	"frame": {"x":0,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10001",
+	"frame": {"x":141,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10002",
+	"frame": {"x":282,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10003",
+	"frame": {"x":423,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10004",
+	"frame": {"x":564,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10005",
+	"frame": {"x":705,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10006",
+	"frame": {"x":846,"y":0,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10007",
+	"frame": {"x":0,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10008",
+	"frame": {"x":141,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10009",
+	"frame": {"x":282,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10010",
+	"frame": {"x":423,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10011",
+	"frame": {"x":564,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10012",
+	"frame": {"x":705,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10013",
+	"frame": {"x":846,"y":175,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10014",
+	"frame": {"x":0,"y":350,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}
+,{
+	"filename": "<Group>_373 instance 10015",
+	"frame": {"x":141,"y":350,"w":141,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":175},
+	"sourceSize": {"w":141,"h":175}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "1.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":584},
+	"scale": "1"
+}
+}

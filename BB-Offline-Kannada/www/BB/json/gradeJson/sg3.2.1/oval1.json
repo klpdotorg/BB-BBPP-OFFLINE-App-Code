@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "<Group>_23 instance 10000",
+	"frame": {"x":0,"y":0,"w":155,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":187},
+	"sourceSize": {"w":155,"h":187}
+}
+,{
+	"filename": "<Group>_23 instance 10001",
+	"frame": {"x":155,"y":0,"w":155,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":187},
+	"sourceSize": {"w":155,"h":187}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "image1.png",
+	"format": "RGBA8888",
+	"size": {"w":315,"h":196},
+	"scale": "1"
+}
+}

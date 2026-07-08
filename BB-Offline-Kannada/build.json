@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathKAN.jks",
+            "storePassword": "BBKannada",
+            "alias": "easymathKAN",
+            "password": "BBKannada",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathKAN.jks",
+            "storePassword": "BBKannada",
+            "alias": "easymathKAN",
+            "password": "BBKannada",
+            "keystoreType": "jks"
+        }
+    }
+}

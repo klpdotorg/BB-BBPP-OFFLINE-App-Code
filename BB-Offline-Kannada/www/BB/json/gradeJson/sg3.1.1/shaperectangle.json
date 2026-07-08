@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 32 instance 10000",
+	"frame": {"x":0,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10001",
+	"frame": {"x":131,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10002",
+	"frame": {"x":262,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10003",
+	"frame": {"x":393,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10004",
+	"frame": {"x":524,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10005",
+	"frame": {"x":655,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10006",
+	"frame": {"x":786,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10007",
+	"frame": {"x":917,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10008",
+	"frame": {"x":1048,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10009",
+	"frame": {"x":1179,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}
+,{
+	"filename": "Symbol 32 instance 10010",
+	"frame": {"x":1310,"y":0,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "a5.png",
+	"format": "RGBA8888",
+	"size": {"w":1449,"h":109},
+	"scale": "1"
+}
+}
