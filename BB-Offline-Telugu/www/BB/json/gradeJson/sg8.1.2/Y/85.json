@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 221 instance 10000",
+	"frame": {"x":0,"y":0,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10001",
+	"frame": {"x":0,"y":15,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10002",
+	"frame": {"x":0,"y":30,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10003",
+	"frame": {"x":0,"y":45,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10004",
+	"frame": {"x":0,"y":60,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10005",
+	"frame": {"x":0,"y":75,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10006",
+	"frame": {"x":0,"y":90,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10007",
+	"frame": {"x":0,"y":105,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10008",
+	"frame": {"x":0,"y":120,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10009",
+	"frame": {"x":0,"y":135,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}
+,{
+	"filename": "Symbol 221 instance 10010",
+	"frame": {"x":0,"y":150,"w":148,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":15},
+	"sourceSize": {"w":148,"h":15}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "4.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

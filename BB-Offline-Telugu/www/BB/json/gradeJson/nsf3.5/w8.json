@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 copy 21 instance 10000",
+	"frame": {"x":0,"y":0,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10001",
+	"frame": {"x":0,"y":114,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10002",
+	"frame": {"x":0,"y":228,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10003",
+	"frame": {"x":0,"y":342,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10004",
+	"frame": {"x":0,"y":456,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10005",
+	"frame": {"x":0,"y":570,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10006",
+	"frame": {"x":0,"y":684,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10007",
+	"frame": {"x":0,"y":798,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10008",
+	"frame": {"x":0,"y":912,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}
+,{
+	"filename": "Symbol 1 copy 21 instance 10009",
+	"frame": {"x":0,"y":1026,"w":550,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":114},
+	"sourceSize": {"w":550,"h":114}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "w8.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

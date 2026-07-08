@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "blank",
+	"frame": {"x":0,"y":0,"w":183,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":184},
+	"sourceSize": {"w":183,"h":184}
+}
+,{
+	"filename": "Symbol 64 instance 10001",
+	"frame": {"x":0,"y":184,"w":183,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":184},
+	"sourceSize": {"w":183,"h":184}
+}
+,{
+	"filename": "Symbol 64 instance 10002",
+	"frame": {"x":183,"y":0,"w":183,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":184},
+	"sourceSize": {"w":183,"h":184}
+}
+,{
+	"filename": "Symbol 64 instance 10003",
+	"frame": {"x":183,"y":184,"w":183,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":184},
+	"sourceSize": {"w":183,"h":184}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "anim slide17.png",
+	"format": "RGB8",
+	"size": {"w":368,"h":369},
+	"scale": "1"
+}
+}

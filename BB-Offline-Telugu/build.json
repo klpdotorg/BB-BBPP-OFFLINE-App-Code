@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathTEL.jks",
+            "storePassword": "BBTelugu",
+            "alias": "easymathTEL",
+            "password": "BBTelugu",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathTEL.jks",
+            "storePassword": "BBTelugu",
+            "alias": "easymathTEL",
+            "password": "BBTelugu",
+            "keystoreType": "jks"
+        }
+    }
+}

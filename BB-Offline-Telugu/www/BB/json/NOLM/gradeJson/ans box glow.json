@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 16 instance 10000",
+	"frame": {"x":0,"y":0,"w":103,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":88},
+	"sourceSize": {"w":103,"h":88}
+}
+,{
+	"filename": "Symbol 16 instance 10001",
+	"frame": {"x":103,"y":0,"w":103,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":88},
+	"sourceSize": {"w":103,"h":88}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "ans box glow.png",
+	"format": "RGBA8888",
+	"size": {"w":212,"h":88},
+	"scale": "1"
+}
+}

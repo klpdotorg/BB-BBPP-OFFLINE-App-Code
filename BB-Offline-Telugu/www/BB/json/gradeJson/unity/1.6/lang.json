@@ -1,0 +1,61 @@
+{ 
+    "en": { 
+        "play": "Play", 
+        "score": "Score", 
+        "language": "Language", 
+        "selectedlanguage": "English", 
+        "level": "Level 1.1",
+         "TotalScore": "TotalStars", 
+        "End":"Level Complete",
+        "Replay":"   Replay",
+        "firstSceneQuestion1":"Select the shapes that are divided in equal parts", 
+        "secondSceneQuestion1":"Pick the right part to make the whole shape",
+        "lastSceneQuestion1": "5 parts make one whole shape",
+        "lastSceneQuestion2": "4 parts make one whole shape",
+        "lastSceneQuestion3": "8 parts make one whole shape",
+        "lastSceneQuestion4": "3 parts make one whole shape",
+        "lastSceneQuestion5": "4 parts make one whole shape",
+        "lastSceneQuestion6": "16 parts make one whole shape"
+
+
+    }, 
+    "hn": { 
+        "play": "खेलो", 
+        "score": "स्कोर ", 
+        "TotalScore": "स्कोर", 
+        "language": "भाषा",
+        "selectedlanguage": "Hindi",
+          "End":"लेवल पूरा हुवा",
+         "Replay":"फिर से खेलना",
+        "firstSceneQuestion1":"बराबर भाग में विभाजित आकार को चुनें ", 
+        "secondSceneQuestion1":"पूरे आकार को बनाने के लिए सही भाग को चुनें",
+        "lastSceneQuestion1": "5 भागों से एक पूरा आकार बना है",
+        "lastSceneQuestion2": "4 भागों से एक पूरा आकार बना है",
+        "lastSceneQuestion3": "8 भागों से एक पूरा आकार बना है ", 
+        "lastSceneQuestion4": "3 भागों से एक पूरा आकार बना है",
+        "lastSceneQuestion5": "4 भागों से एक पूरा आकार बना है",
+        "lastSceneQuestion6": "16 भागों से एक पूरा आकार बना है "
+
+    },
+    "kan": { 
+        "play": "ಆಡು", 
+        "score": "ಸ್ಕೋರ್",
+        "TotalScore": "ಸ್ಕೋರ್",
+        "language": "ಭಾಷೆ", 
+        "selectedlanguage": "ಕನ್ನಡ",
+        "level": "ಹಂತ 1.1", 
+          "End":"ಲೆವೆಲ್ ಸಂಪೂರ್ಣ",
+        "Replay":   "   ಪುನ್ಹ ಪ್ರಯತ್ನಿಸಿ",
+        "firstSceneQuestion1":"ಸಮಾನ ಭಾಗಗಳಲ್ಲಿ ವಿಂಗಡಿಸಲಾದ ಆಕಾರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ", 
+        "secondSceneQuestion1":"ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡಲು ಸರಿಯಾದ ಭಾಗವನ್ನು ಆರಿಸಿ",
+        "lastSceneQuestion1": "5 ಭಾಗಗಳು ಒಂದು ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡುತ್ತವೆ",
+        "lastSceneQuestion2": "4 ಭಾಗಗಳು ಒಂದು ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡುತ್ತವೆ",
+        "lastSceneQuestion3": "8 ಭಾಗಗಳು ಒಂದು ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡುತ್ತವೆ",
+        "lastSceneQuestion4": "3 ಭಾಗಗಳು ಒಂದು ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡುತ್ತವೆ",
+        "lastSceneQuestion5": "4 ಭಾಗಗಳು ಒಂದು ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡುತ್ತವೆ",
+        "lastSceneQuestion6": "16 ಭಾಗಗಳು ಒಂದು ಸಂಪೂರ್ಣ ಆಕಾರವನ್ನು ಮಾಡುತ್ತವೆ"
+
+        
+        
+    }
+}
