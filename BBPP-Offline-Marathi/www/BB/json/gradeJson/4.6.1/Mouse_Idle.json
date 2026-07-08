@@ -1,0 +1,131 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":112,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10001",
+	"frame": {"x":112,"y":0,"w":112,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10002",
+	"frame": {"x":0,"y":58,"w":112,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10003",
+	"frame": {"x":112,"y":58,"w":112,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10004",
+	"frame": {"x":0,"y":117,"w":112,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10005",
+	"frame": {"x":112,"y":117,"w":112,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10006",
+	"frame": {"x":0,"y":178,"w":112,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10007",
+	"frame": {"x":112,"y":178,"w":112,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10008",
+	"frame": {"x":0,"y":239,"w":112,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10009",
+	"frame": {"x":112,"y":239,"w":112,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10010",
+	"frame": {"x":0,"y":298,"w":112,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10011",
+	"frame": {"x":112,"y":298,"w":112,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10012",
+	"frame": {"x":0,"y":356,"w":112,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10013",
+	"frame": {"x":112,"y":356,"w":112,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}
+,{
+	"filename": "Symbol 3 instance 10014",
+	"frame": {"x":0,"y":414,"w":112,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":112,"h":61},
+	"sourceSize": {"w":112,"h":61}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Mouse_Idle.png",
+	"format": "RGBA8888",
+	"size": {"w":235,"h":488},
+	"scale": "1"
+}
+}

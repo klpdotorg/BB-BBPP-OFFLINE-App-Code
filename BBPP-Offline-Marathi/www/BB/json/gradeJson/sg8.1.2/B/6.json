@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 143 instance 10000",
+	"frame": {"x":0,"y":0,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10001",
+	"frame": {"x":331,"y":0,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10002",
+	"frame": {"x":662,"y":0,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10003",
+	"frame": {"x":0,"y":331,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10004",
+	"frame": {"x":331,"y":331,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10005",
+	"frame": {"x":662,"y":331,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10006",
+	"frame": {"x":0,"y":662,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10007",
+	"frame": {"x":331,"y":662,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10008",
+	"frame": {"x":662,"y":662,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10009",
+	"frame": {"x":0,"y":993,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}
+,{
+	"filename": "Symbol 143 instance 10010",
+	"frame": {"x":331,"y":993,"w":331,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":331},
+	"sourceSize": {"w":331,"h":331}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,115 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 copy 7 instance 10000",
+	"frame": {"x":0,"y":0,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10001",
+	"frame": {"x":84,"y":0,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10002",
+	"frame": {"x":168,"y":0,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10003",
+	"frame": {"x":252,"y":0,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10004",
+	"frame": {"x":336,"y":0,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10005",
+	"frame": {"x":420,"y":0,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10006",
+	"frame": {"x":0,"y":113,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10007",
+	"frame": {"x":84,"y":113,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10008",
+	"frame": {"x":168,"y":113,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10009",
+	"frame": {"x":252,"y":113,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10010",
+	"frame": {"x":336,"y":113,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10011",
+	"frame": {"x":420,"y":113,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}
+,{
+	"filename": "Symbol 1 copy 7 instance 10012",
+	"frame": {"x":0,"y":226,"w":84,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":113},
+	"sourceSize": {"w":84,"h":113}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "flowers 4.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":371},
+	"scale": "1"
+}
+}

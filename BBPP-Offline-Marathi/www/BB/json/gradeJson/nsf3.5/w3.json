@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":549,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":549,"h":115},
+	"sourceSize": {"w":549,"h":115}
+}
+,{
+	"filename": "Symbol 1 copy instance 10001",
+	"frame": {"x":0,"y":115,"w":549,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":549,"h":115},
+	"sourceSize": {"w":549,"h":115}
+}
+,{
+	"filename": "Symbol 1 copy instance 10002",
+	"frame": {"x":0,"y":230,"w":549,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":549,"h":115},
+	"sourceSize": {"w":549,"h":115}
+}
+,{
+	"filename": "Symbol 1 copy instance 10003",
+	"frame": {"x":0,"y":345,"w":549,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":549,"h":115},
+	"sourceSize": {"w":549,"h":115}
+}
+,{
+	"filename": "Symbol 1 copy instance 10004",
+	"frame": {"x":0,"y":460,"w":549,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":549,"h":115},
+	"sourceSize": {"w":549,"h":115}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
