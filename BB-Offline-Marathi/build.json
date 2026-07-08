@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathMAR.jks",
+            "storePassword": "BBMarathi",
+            "alias": "easymathMAR",
+            "password": "BBMarathi",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathMAR.jks",
+            "storePassword": "BBMarathi",
+            "alias": "easymathMAR",
+            "password": "BBMarathi",
+            "keystoreType": "jks"
+        }
+    }
+}

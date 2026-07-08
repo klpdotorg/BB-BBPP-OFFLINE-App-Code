@@ -1,0 +1,59 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 10 copy 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":49,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":198},
+	"sourceSize": {"w":49,"h":198}
+}
+,{
+	"filename": "Symbol 10 copy 3 instance 10001",
+	"frame": {"x":49,"y":0,"w":49,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":198},
+	"sourceSize": {"w":49,"h":198}
+}
+,{
+	"filename": "Symbol 10 copy 3 instance 10002",
+	"frame": {"x":98,"y":0,"w":49,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":198},
+	"sourceSize": {"w":49,"h":198}
+}
+,{
+	"filename": "Symbol 10 copy 3 instance 10003",
+	"frame": {"x":147,"y":0,"w":49,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":198},
+	"sourceSize": {"w":49,"h":198}
+}
+,{
+	"filename": "Symbol 10 copy 3 instance 10004",
+	"frame": {"x":196,"y":0,"w":49,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":198},
+	"sourceSize": {"w":49,"h":198}
+}
+,{
+	"filename": "Symbol 10 copy 3 instance 10005",
+	"frame": {"x":245,"y":0,"w":49,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":198},
+	"sourceSize": {"w":49,"h":198}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Q4.png",
+	"format": "RGBA8888",
+	"size": {"w":331,"h":231},
+	"scale": "1"
+}
+}

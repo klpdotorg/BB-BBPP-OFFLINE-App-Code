@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "<Path>_9 instance 10000",
+	"frame": {"x":0,"y":0,"w":34,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":71},
+	"sourceSize": {"w":34,"h":71}
+}
+,{
+	"filename": "<Path>_9 instance 10001",
+	"frame": {"x":34,"y":0,"w":34,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":71},
+	"sourceSize": {"w":34,"h":71}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "footstep8.png",
+	"format": "RGBA8888",
+	"size": {"w":75,"h":74},
+	"scale": "1"
+}
+}

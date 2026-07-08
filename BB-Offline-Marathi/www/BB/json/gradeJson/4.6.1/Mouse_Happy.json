@@ -1,0 +1,107 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 4 instance 10000",
+	"frame": {"x":0,"y":0,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10001",
+	"frame": {"x":149,"y":0,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10002",
+	"frame": {"x":298,"y":0,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10003",
+	"frame": {"x":0,"y":109,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10004",
+	"frame": {"x":149,"y":109,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10005",
+	"frame": {"x":298,"y":109,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10006",
+	"frame": {"x":0,"y":218,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10007",
+	"frame": {"x":149,"y":218,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10008",
+	"frame": {"x":298,"y":218,"w":149,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10009",
+	"frame": {"x":0,"y":327,"w":138,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10010",
+	"frame": {"x":138,"y":327,"w":138,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}
+,{
+	"filename": "Symbol 4 instance 10011",
+	"frame": {"x":276,"y":327,"w":139,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":109},
+	"sourceSize": {"w":149,"h":109}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Mouse_Happy.png",
+	"format": "RGB8",
+	"size": {"w":453,"h":459},
+	"scale": "1"
+}
+}
