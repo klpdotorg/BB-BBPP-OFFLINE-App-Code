@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 185 instance 10000",
+	"frame": {"x":0,"y":0,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10001",
+	"frame": {"x":0,"y":313,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10002",
+	"frame": {"x":183,"y":0,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10003",
+	"frame": {"x":0,"y":626,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10004",
+	"frame": {"x":183,"y":313,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10005",
+	"frame": {"x":366,"y":0,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10006",
+	"frame": {"x":183,"y":626,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10007",
+	"frame": {"x":366,"y":313,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10008",
+	"frame": {"x":549,"y":0,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10009",
+	"frame": {"x":366,"y":626,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}
+,{
+	"filename": "Symbol 185 instance 10010",
+	"frame": {"x":549,"y":313,"w":183,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":313},
+	"sourceSize": {"w":183,"h":313}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

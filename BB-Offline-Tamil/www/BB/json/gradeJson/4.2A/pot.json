@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "<Group>_90 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10001",
+	"frame": {"x":156,"y":0,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10002",
+	"frame": {"x":312,"y":0,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10003",
+	"frame": {"x":0,"y":216,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10004",
+	"frame": {"x":156,"y":216,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10005",
+	"frame": {"x":312,"y":216,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10006",
+	"frame": {"x":0,"y":432,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "<Group>_90 copy instance 10007",
+	"frame": {"x":0,"y":648,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "a2",
+	"frame": {"x":156,"y":432,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}
+,{
+	"filename": "a1",
+	"frame": {"x":312,"y":432,"w":156,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":216},
+	"sourceSize": {"w":156,"h":216}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "A3.1.png",
+	"format": "RGB8",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

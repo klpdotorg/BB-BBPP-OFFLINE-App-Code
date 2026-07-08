@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 instance 10000",
+	"frame": {"x":0,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10001",
+	"frame": {"x":86,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10002",
+	"frame": {"x":172,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10003",
+	"frame": {"x":258,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10004",
+	"frame": {"x":344,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10005",
+	"frame": {"x":430,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10006",
+	"frame": {"x":516,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10007",
+	"frame": {"x":602,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10008",
+	"frame": {"x":688,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}
+,{
+	"filename": "Symbol 1 instance 10009",
+	"frame": {"x":774,"y":0,"w":86,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":102},
+	"sourceSize": {"w":86,"h":102}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "calculator number.png",
+	"format": "RGB8",
+	"size": {"w":866,"h":105},
+	"scale": "1"
+}
+}

@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathTAM.jks",
+            "storePassword": "BBTamil",
+            "alias": "easymathTAM",
+            "password": "BBTamil",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathTAM.jks",
+            "storePassword": "BBTamil",
+            "alias": "easymathTAM",
+            "password": "BBTamil",
+            "keystoreType": "jks"
+        }
+    }
+}

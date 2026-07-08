@@ -1,0 +1,75 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 93 instance 10000",
+	"frame": {"x":0,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10001",
+	"frame": {"x":206,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10002",
+	"frame": {"x":412,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10003",
+	"frame": {"x":618,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10004",
+	"frame": {"x":824,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10005",
+	"frame": {"x":1030,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10006",
+	"frame": {"x":1236,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}
+,{
+	"filename": "Symbol 93 instance 10007",
+	"frame": {"x":1442,"y":0,"w":206,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":144},
+	"sourceSize": {"w":206,"h":144}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "anim6.png",
+	"format": "RGBA8888",
+	"size": {"w":1665,"h":151},
+	"scale": "1"
+}
+}

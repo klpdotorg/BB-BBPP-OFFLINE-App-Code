@@ -1,0 +1,75 @@
+﻿{"frames": [
+
+{
+	"filename": "Tween 7 instance 10000",
+	"frame": {"x":0,"y":0,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10001",
+	"frame": {"x":172,"y":0,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10002",
+	"frame": {"x":0,"y":173,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10003",
+	"frame": {"x":172,"y":173,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10004",
+	"frame": {"x":0,"y":346,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10005",
+	"frame": {"x":172,"y":346,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10006",
+	"frame": {"x":0,"y":519,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}
+,{
+	"filename": "Tween 7 instance 10007",
+	"frame": {"x":172,"y":519,"w":172,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":173},
+	"sourceSize": {"w":172,"h":173}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "5.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

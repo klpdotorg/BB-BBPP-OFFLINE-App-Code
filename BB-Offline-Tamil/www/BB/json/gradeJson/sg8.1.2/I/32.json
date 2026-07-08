@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 170 instance 10000",
+	"frame": {"x":0,"y":0,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10001",
+	"frame": {"x":0,"y":312,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10002",
+	"frame": {"x":188,"y":0,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10003",
+	"frame": {"x":0,"y":624,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10004",
+	"frame": {"x":188,"y":312,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10005",
+	"frame": {"x":376,"y":0,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10006",
+	"frame": {"x":188,"y":624,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10007",
+	"frame": {"x":376,"y":312,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10008",
+	"frame": {"x":564,"y":0,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10009",
+	"frame": {"x":376,"y":624,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}
+,{
+	"filename": "Symbol 170 instance 10010",
+	"frame": {"x":564,"y":312,"w":188,"h":312},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":312},
+	"sourceSize": {"w":188,"h":312}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

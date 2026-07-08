@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 14 instance 10000",
+	"frame": {"x":0,"y":0,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":63},
+	"sourceSize": {"w":60,"h":63}
+}
+,{
+	"filename": "Symbol 14 instance 10001",
+	"frame": {"x":0,"y":63,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":63},
+	"sourceSize": {"w":60,"h":63}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "TIK.png",
+	"format": "RGB8",
+	"size": {"w":64,"h":128},
+	"scale": "1"
+}
+}

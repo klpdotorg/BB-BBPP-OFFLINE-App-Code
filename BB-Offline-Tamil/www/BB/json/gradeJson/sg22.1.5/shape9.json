@@ -1,0 +1,75 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 24 instance 10000",
+	"frame": {"x":0,"y":0,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10001",
+	"frame": {"x":281,"y":0,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10002",
+	"frame": {"x":562,"y":0,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10003",
+	"frame": {"x":0,"y":279,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10004",
+	"frame": {"x":0,"y":558,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10005",
+	"frame": {"x":281,"y":279,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10006",
+	"frame": {"x":562,"y":279,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}
+,{
+	"filename": "Symbol 24 instance 10007",
+	"frame": {"x":281,"y":558,"w":281,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":279},
+	"sourceSize": {"w":281,"h":279}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "17.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

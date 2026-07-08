@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 70 instance 10000",
+	"frame": {"x":0,"y":0,"w":147,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":143},
+	"sourceSize": {"w":147,"h":143}
+}
+,{
+	"filename": "Symbol 70 instance 10001",
+	"frame": {"x":147,"y":0,"w":147,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":143},
+	"sourceSize": {"w":147,"h":143}
+}
+,{
+	"filename": "Symbol 70 instance 10002",
+	"frame": {"x":294,"y":0,"w":147,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":143},
+	"sourceSize": {"w":147,"h":143}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "cube icons.png",
+	"format": "RGBA8888",
+	"size": {"w":444,"h":144},
+	"scale": "1"
+}
+}

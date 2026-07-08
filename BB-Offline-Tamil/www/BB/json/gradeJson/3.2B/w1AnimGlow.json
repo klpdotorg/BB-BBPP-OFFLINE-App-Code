@@ -1,0 +1,107 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 11 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10001",
+	"frame": {"x":0,"y":226,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10002",
+	"frame": {"x":0,"y":452,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10003",
+	"frame": {"x":229,"y":0,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10004",
+	"frame": {"x":229,"y":226,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10005",
+	"frame": {"x":229,"y":452,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10006",
+	"frame": {"x":458,"y":0,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10007",
+	"frame": {"x":687,"y":0,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10008",
+	"frame": {"x":458,"y":226,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10009",
+	"frame": {"x":458,"y":452,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10010",
+	"frame": {"x":687,"y":226,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}
+,{
+	"filename": "Symbol 11 copy instance 10011",
+	"frame": {"x":687,"y":452,"w":229,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":226},
+	"sourceSize": {"w":229,"h":226}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.1.115",
+	"image": "1.png",
+	"format": "RGB8",
+	"size": {"w":1024,"h":766},
+	"scale": "1"
+}
+}

@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 12 copy 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10001",
+	"frame": {"x":41,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10002",
+	"frame": {"x":82,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10003",
+	"frame": {"x":123,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10004",
+	"frame": {"x":164,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10005",
+	"frame": {"x":205,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10006",
+	"frame": {"x":246,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10007",
+	"frame": {"x":287,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10008",
+	"frame": {"x":328,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}
+,{
+	"filename": "Symbol 12 copy 3 instance 10009",
+	"frame": {"x":369,"y":0,"w":41,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":132},
+	"sourceSize": {"w":41,"h":132}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Kidd jump.png",
+	"format": "RGBA8888",
+	"size": {"w":415,"h":133},
+	"scale": "1"
+}
+}
