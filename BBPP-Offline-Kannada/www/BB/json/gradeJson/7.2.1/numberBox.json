@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 12 instance 10000",
+	"frame": {"x":0,"y":0,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+}
+,{
+	"filename": "Symbol 12 instance 10001",
+	"frame": {"x":0,"y":67,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "PlaceValueNumberPanel 1.png",
+	"format": "RGB8",
+	"size": {"w":72,"h":143},
+	"scale": "1"
+}
+}

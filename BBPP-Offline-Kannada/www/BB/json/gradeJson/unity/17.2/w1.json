@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Tween 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":100,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":79},
+	"sourceSize": {"w":100,"h":79}
+}
+,{
+	"filename": "Tween 3 instance 10001",
+	"frame": {"x":0,"y":79,"w":100,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":79},
+	"sourceSize": {"w":100,"h":79}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "w1.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":169},
+	"scale": "1"
+}
+}

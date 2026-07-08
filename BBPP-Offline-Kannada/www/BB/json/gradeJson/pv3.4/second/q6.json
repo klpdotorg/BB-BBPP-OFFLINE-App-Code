@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 31 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":211,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":267},
+	"sourceSize": {"w":211,"h":267}
+}
+,{
+	"filename": "Symbol 31 copy instance 10001",
+	"frame": {"x":211,"y":0,"w":211,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":267},
+	"sourceSize": {"w":211,"h":267}
+}
+,{
+	"filename": "Symbol 31 copy instance 10002",
+	"frame": {"x":0,"y":267,"w":211,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":267},
+	"sourceSize": {"w":211,"h":267}
+}
+,{
+	"filename": "Symbol 31 copy instance 10003",
+	"frame": {"x":211,"y":267,"w":211,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":267},
+	"sourceSize": {"w":211,"h":267}
+}
+,{
+	"filename": "Symbol 31 copy instance 10004",
+	"frame": {"x":0,"y":534,"w":211,"h":267},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":267},
+	"sourceSize": {"w":211,"h":267}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.1.0.349",
+	"image": "x1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}
