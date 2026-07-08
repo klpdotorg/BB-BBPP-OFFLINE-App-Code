@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 9 instance 10000",
+	"frame": {"x":0,"y":0,"w":49,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":35},
+	"sourceSize": {"w":49,"h":35}
+}
+,{
+	"filename": "Symbol 9 instance 10001",
+	"frame": {"x":0,"y":35,"w":49,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":35},
+	"sourceSize": {"w":49,"h":35}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "coin.png",
+	"format": "RGBA8888",
+	"size": {"w":52,"h":71},
+	"scale": "1"
+}
+}

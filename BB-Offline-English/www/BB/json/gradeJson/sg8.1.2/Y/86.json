@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 220 instance 10000",
+	"frame": {"x":0,"y":0,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10001",
+	"frame": {"x":111,"y":0,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10002",
+	"frame": {"x":222,"y":0,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10003",
+	"frame": {"x":333,"y":0,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10004",
+	"frame": {"x":0,"y":112,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10005",
+	"frame": {"x":111,"y":112,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10006",
+	"frame": {"x":222,"y":112,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10007",
+	"frame": {"x":333,"y":112,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10008",
+	"frame": {"x":0,"y":224,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10009",
+	"frame": {"x":111,"y":224,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}
+,{
+	"filename": "Symbol 220 instance 10010",
+	"frame": {"x":222,"y":224,"w":111,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":112},
+	"sourceSize": {"w":111,"h":112}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "3.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

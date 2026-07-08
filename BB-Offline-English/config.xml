@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.akshara.easymathENG" android-versionCode="1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <name>BB Offline English</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http:///" />
+    <allow-intent href="https:///" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+
+      <!-- Remove native splash screen -->        
+        <preference name="AndroidWindowSplashScreenBackground" value="#ffffffff" />
+        <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/ic_launcher_monochrome.png" />   
+
+       <preference name="AndroidPersistentFileLocation" value="Internal" />
+
+        <!-- if u get some error while generating release apk try adding these two lines  (error: mapReleaseSourceSetPaths FAILED)-->
+        <preference name="GradlePluginGoogleServicesEnabled" value="true" />
+        <preference name="GradlePluginGoogleServicesVersion" value="4.3.14" />
+
+        <!-- <preference name="AndroidXEnabled" value="false"/> -->
+        <preference name="AndroidXEnabled" value="true"/>
+        <preference name="android-minSdkVersion" value="23" />
+        <preference name="android-compileSdkVersion" value="36" />
+        <preference name="android-targetSdkVersion" value="36" />
+        <icon density="mdpi" src="assets/hdpi/ic_bbpp_logo.png" />
+        <icon density="hdpi" src="assets/hdpi/ic_bbpp_logo.png" />
+        <icon density="xhdpi" src="assets/xhdpi/ic_bbpp_logo.png" />
+        <icon density="xxhdpi" src="assets/xxhdpi/ic_bbpp_logo.png" />
+
+        <allow-intent href="market:*" />
+        <preference name="Fullscreen" value="true" /> 
+        <preference name="Orientation" value="portrait" />
+        <preference name="AndroidInsecureFileModeEnabled" value="true" />
+        <resource-file src="google-services.json" target="app/google-services.json" />
+        <!-- <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/uses-permission" xmlns:android="http://schemas.android.com/apk/res/android">
+            <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+        </edit-config>  -->
+        <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/uses-permission" xmlns:tools="http://schemas.android.com/tools">
+            <uses-permission android:name="com.google.android.gms.permission.AD_ID" tools:node="remove"/>
+        </edit-config>
+        <edit-config file="AndroidManifest.xml" target="/manifest" mode="merge">
+            <manifest xmlns:tools="http://schemas.android.com/tools" />
+        </edit-config>  
+
+        <!-- Facebook Settings -->
+        <!-- <preference name="FacebookAdvertisingTrackingEnabled" value="true" />
+        <preference name="FacebookAutoInitEnabled" value="true" />
+        <preference name="FacebookAutoLogAppEventsEnabled" value="true" />
+        <preference name="FacebookAdvertiserIDCollectionEnabled" value="true" />      -->
+    </platform>
+      <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+
+</widget>

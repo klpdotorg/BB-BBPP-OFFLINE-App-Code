@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathENG.jks",
+            "storePassword": "BBEnglish",
+            "alias": "easymathENG",
+            "password" : "BBEnglish",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathENG.jks",
+            "storePassword": "BBEnglish",
+            "alias": "easymathENG",
+            "password" : "BBEnglish",
+            "keystoreType": "jks"
+        }
+    }
+}

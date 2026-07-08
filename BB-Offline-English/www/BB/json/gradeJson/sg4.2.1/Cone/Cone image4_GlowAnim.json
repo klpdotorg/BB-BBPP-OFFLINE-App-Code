@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 98 instance 10000",
+	"frame": {"x":0,"y":0,"w":152,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":83},
+	"sourceSize": {"w":152,"h":83}
+}
+,{
+	"filename": "Symbol 98 instance 10001",
+	"frame": {"x":152,"y":0,"w":152,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":83},
+	"sourceSize": {"w":152,"h":83}
+}
+,{
+	"filename": "Symbol 98 instance 10002",
+	"frame": {"x":304,"y":0,"w":152,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":83},
+	"sourceSize": {"w":152,"h":83}
+}
+,{
+	"filename": "Symbol 98 instance 10003",
+	"frame": {"x":456,"y":0,"w":152,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":83},
+	"sourceSize": {"w":152,"h":83}
+}
+,{
+	"filename": "Symbol 98 instance 10004",
+	"frame": {"x":608,"y":0,"w":152,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":83},
+	"sourceSize": {"w":152,"h":83}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "anim11.png",
+	"format": "RGBA8888",
+	"size": {"w":767,"h":87},
+	"scale": "1"
+}
+}

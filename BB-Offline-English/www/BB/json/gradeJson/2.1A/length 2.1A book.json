@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 64 instance 10000",
+	"frame": {"x":0,"y":0,"w":126,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":38,"w":206,"h":111},
+	"sourceSize": {"w":206,"h":111}
+}
+,{
+	"filename": "Symbol 64 instance 10001",
+	"frame": {"x":0,"y":31,"w":206,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":111},
+	"sourceSize": {"w":206,"h":111}
+}
+,{
+	"filename": "Symbol 64 instance 10002",
+	"frame": {"x":0,"y":0,"w":126,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":38,"w":206,"h":111},
+	"sourceSize": {"w":206,"h":111}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.5.1.104",
+	"image": "length 2.1A book.png",
+	"format": "RGBA8888",
+	"size": {"w":219,"h":144},
+	"scale": "1"
+}
+}

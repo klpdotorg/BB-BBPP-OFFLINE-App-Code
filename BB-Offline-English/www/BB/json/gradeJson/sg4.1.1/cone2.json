@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 29 instance 10000",
+	"frame": {"x":0,"y":0,"w":150,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":246},
+	"sourceSize": {"w":150,"h":246}
+}
+,{
+	"filename": "Symbol 29 instance 10001",
+	"frame": {"x":150,"y":0,"w":150,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":246},
+	"sourceSize": {"w":150,"h":246}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "cone image2.png",
+	"format": "RGBA8888",
+	"size": {"w":306,"h":247},
+	"scale": "1"
+}
+}
