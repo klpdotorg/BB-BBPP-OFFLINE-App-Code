@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":54,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":13},
+	"sourceSize": {"w":54,"h":13}
+}
+,{
+	"filename": "Symbol 3 instance 10001",
+	"frame": {"x":0,"y":13,"w":54,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":13},
+	"sourceSize": {"w":54,"h":13}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "carrot.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":27},
+	"scale": "1"
+}
+}

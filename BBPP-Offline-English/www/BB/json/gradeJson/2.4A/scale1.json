@@ -1,0 +1,219 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 52 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":668,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":14,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10001",
+	"frame": {"x":0,"y":68,"w":695,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10002",
+	"frame": {"x":0,"y":164,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10003",
+	"frame": {"x":0,"y":262,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10004",
+	"frame": {"x":0,"y":360,"w":728,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10005",
+	"frame": {"x":0,"y":460,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10006",
+	"frame": {"x":0,"y":558,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10007",
+	"frame": {"x":0,"y":68,"w":695,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10008",
+	"frame": {"x":0,"y":164,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10009",
+	"frame": {"x":0,"y":262,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10010",
+	"frame": {"x":0,"y":360,"w":728,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10011",
+	"frame": {"x":0,"y":460,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10012",
+	"frame": {"x":0,"y":558,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10013",
+	"frame": {"x":0,"y":68,"w":695,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10014",
+	"frame": {"x":0,"y":164,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10015",
+	"frame": {"x":0,"y":262,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10016",
+	"frame": {"x":0,"y":360,"w":728,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10017",
+	"frame": {"x":0,"y":460,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10018",
+	"frame": {"x":0,"y":558,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10019",
+	"frame": {"x":0,"y":68,"w":695,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10020",
+	"frame": {"x":0,"y":164,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10021",
+	"frame": {"x":0,"y":262,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10022",
+	"frame": {"x":0,"y":360,"w":728,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10023",
+	"frame": {"x":0,"y":460,"w":717,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10024",
+	"frame": {"x":0,"y":558,"w":706,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}
+,{
+	"filename": "Symbol 52 copy instance 10025",
+	"frame": {"x":0,"y":68,"w":695,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":728,"h":100},
+	"sourceSize": {"w":728,"h":100}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "scale.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

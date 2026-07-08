@@ -1,0 +1,219 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 51 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":161,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":19,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10001",
+	"frame": {"x":161,"y":0,"w":189,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10002",
+	"frame": {"x":350,"y":0,"w":193,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10003",
+	"frame": {"x":543,"y":0,"w":195,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10004",
+	"frame": {"x":738,"y":0,"w":197,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10005",
+	"frame": {"x":0,"y":314,"w":195,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10006",
+	"frame": {"x":195,"y":314,"w":193,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10007",
+	"frame": {"x":161,"y":0,"w":189,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10008",
+	"frame": {"x":350,"y":0,"w":193,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10009",
+	"frame": {"x":543,"y":0,"w":195,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10010",
+	"frame": {"x":738,"y":0,"w":197,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10011",
+	"frame": {"x":0,"y":314,"w":195,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10012",
+	"frame": {"x":195,"y":314,"w":193,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10013",
+	"frame": {"x":161,"y":0,"w":189,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10014",
+	"frame": {"x":350,"y":0,"w":193,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10015",
+	"frame": {"x":543,"y":0,"w":195,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10016",
+	"frame": {"x":738,"y":0,"w":197,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10017",
+	"frame": {"x":0,"y":314,"w":195,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10018",
+	"frame": {"x":195,"y":314,"w":193,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10019",
+	"frame": {"x":161,"y":0,"w":189,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10020",
+	"frame": {"x":350,"y":0,"w":193,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10021",
+	"frame": {"x":543,"y":0,"w":195,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10022",
+	"frame": {"x":738,"y":0,"w":197,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10023",
+	"frame": {"x":0,"y":314,"w":195,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10024",
+	"frame": {"x":195,"y":314,"w":193,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}
+,{
+	"filename": "Symbol 51 copy instance 10025",
+	"frame": {"x":161,"y":0,"w":189,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":197,"h":314},
+	"sourceSize": {"w":197,"h":314}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "flower pot.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

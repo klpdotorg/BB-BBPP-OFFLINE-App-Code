@@ -1,0 +1,83 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 60 instance 10000",
+	"frame": {"x":0,"y":0,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10001",
+	"frame": {"x":0,"y":217,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10002",
+	"frame": {"x":0,"y":434,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10003",
+	"frame": {"x":227,"y":0,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10004",
+	"frame": {"x":454,"y":0,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10005",
+	"frame": {"x":227,"y":217,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10006",
+	"frame": {"x":454,"y":217,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10007",
+	"frame": {"x":227,"y":434,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}
+,{
+	"filename": "Symbol 60 instance 10008",
+	"frame": {"x":454,"y":434,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "m11.png",
+	"format": "RGBA8888",
+	"size": {"w":731,"h":709},
+	"scale": "1"
+}
+}

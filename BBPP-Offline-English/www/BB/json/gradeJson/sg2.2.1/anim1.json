@@ -1,0 +1,59 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 5 instance 10000",
+	"frame": {"x":0,"y":0,"w":152,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":125},
+	"sourceSize": {"w":152,"h":125}
+}
+,{
+	"filename": "Symbol 5 instance 10001",
+	"frame": {"x":152,"y":0,"w":152,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":125},
+	"sourceSize": {"w":152,"h":125}
+}
+,{
+	"filename": "Symbol 5 instance 10002",
+	"frame": {"x":304,"y":0,"w":152,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":125},
+	"sourceSize": {"w":152,"h":125}
+}
+,{
+	"filename": "Symbol 5 instance 10003",
+	"frame": {"x":0,"y":125,"w":152,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":125},
+	"sourceSize": {"w":152,"h":125}
+}
+,{
+	"filename": "Symbol 5 instance 10004",
+	"frame": {"x":152,"y":125,"w":152,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":125},
+	"sourceSize": {"w":152,"h":125}
+}
+,{
+	"filename": "Symbol 5 instance 10005",
+	"frame": {"x":304,"y":125,"w":152,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":125},
+	"sourceSize": {"w":152,"h":125}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "anim1.png",
+	"format": "RGBA8888",
+	"size": {"w":464,"h":256},
+	"scale": "1"
+}
+}

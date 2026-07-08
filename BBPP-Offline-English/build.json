@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "enbbplusplusoff.jks",
+            "storePassword": "enbbplusplusoff",
+            "alias": "enbbplusplusoff",
+            "password" : "enbbplusplusoff",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "enbbplusplusoff.jks",
+            "storePassword": "enbbplusplusoff",
+            "alias": "enbbplusplusoff",
+            "password" : "enbbplusplusoff",  
+            "keystoreType": "jks"
+        }
+    }
+}

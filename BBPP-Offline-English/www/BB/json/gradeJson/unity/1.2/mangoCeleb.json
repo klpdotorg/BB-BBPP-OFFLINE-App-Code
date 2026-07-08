@@ -1,0 +1,67 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 4 instance 10000",
+	"frame": {"x":0,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}
+,{
+	"filename": "Symbol 4 instance 10001",
+	"frame": {"x":81,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}
+,{
+	"filename": "Symbol 4 instance 10002",
+	"frame": {"x":162,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}
+,{
+	"filename": "Symbol 4 instance 10003",
+	"frame": {"x":243,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}
+,{
+	"filename": "Symbol 4 instance 10004",
+	"frame": {"x":324,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}
+,{
+	"filename": "Symbol 4 instance 10005",
+	"frame": {"x":405,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}
+,{
+	"filename": "Symbol 4 instance 10006",
+	"frame": {"x":486,"y":0,"w":81,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":123},
+	"sourceSize": {"w":81,"h":123}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "mango anim.png",
+	"format": "RGB8",
+	"size": {"w":600,"h":131},
+	"scale": "1"
+}
+}

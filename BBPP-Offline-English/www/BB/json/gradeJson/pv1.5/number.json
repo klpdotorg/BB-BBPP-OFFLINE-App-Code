@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 4 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10001",
+	"frame": {"x":43,"y":0,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10002",
+	"frame": {"x":86,"y":0,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10003",
+	"frame": {"x":129,"y":0,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10004",
+	"frame": {"x":172,"y":0,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10005",
+	"frame": {"x":0,"y":54,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10006",
+	"frame": {"x":43,"y":54,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10007",
+	"frame": {"x":86,"y":54,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10008",
+	"frame": {"x":129,"y":54,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}
+,{
+	"filename": "Symbol 4 copy 2 instance 10009",
+	"frame": {"x":172,"y":54,"w":43,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":54},
+	"sourceSize": {"w":43,"h":54}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.1.0.349",
+	"image": "NSPVG1.4_1.5.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

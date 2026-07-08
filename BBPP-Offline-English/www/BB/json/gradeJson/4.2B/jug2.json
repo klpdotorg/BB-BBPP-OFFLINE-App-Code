@@ -1,0 +1,83 @@
+﻿{"frames": [
+
+{
+	"filename": "<Group>_57 instance 10000",
+	"frame": {"x":0,"y":0,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "<Group>_57 instance 10001",
+	"frame": {"x":179,"y":0,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "<Group>_57 instance 10002",
+	"frame": {"x":358,"y":0,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "<Group>_57 instance 10003",
+	"frame": {"x":0,"y":286,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "<Group>_57 instance 10004",
+	"frame": {"x":0,"y":572,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "<Group>_57 instance 10005",
+	"frame": {"x":179,"y":286,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "<Group>_57 instance 10006",
+	"frame": {"x":179,"y":572,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "a1",
+	"frame": {"x":358,"y":286,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}
+,{
+	"filename": "a2",
+	"frame": {"x":358,"y":572,"w":179,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":286},
+	"sourceSize": {"w":179,"h":286}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.5.1.104",
+	"image": "6.png",
+	"format": "RGB8",
+	"size": {"w":615,"h":919},
+	"scale": "1"
+}
+}
