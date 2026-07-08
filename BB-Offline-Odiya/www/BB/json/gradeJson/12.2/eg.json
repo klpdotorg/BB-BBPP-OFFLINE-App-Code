@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 14 copy 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":198,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":38},
+	"sourceSize": {"w":198,"h":38}
+}
+,{
+	"filename": "Symbol 14 copy 3 instance 10001",
+	"frame": {"x":0,"y":38,"w":198,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":38},
+	"sourceSize": {"w":198,"h":38}
+}
+,{
+	"filename": "Symbol 14 copy 3 instance 10002",
+	"frame": {"x":0,"y":76,"w":198,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":38},
+	"sourceSize": {"w":198,"h":38}
+}
+,{
+	"filename": "Symbol 14 copy 3 instance 10003",
+	"frame": {"x":0,"y":114,"w":198,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":38},
+	"sourceSize": {"w":198,"h":38}
+}
+,{
+	"filename": "Symbol 14 copy 3 instance 10004",
+	"frame": {"x":0,"y":152,"w":198,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":38},
+	"sourceSize": {"w":198,"h":38}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "3 to 7 new.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":192},
+	"scale": "1"
+}
+}

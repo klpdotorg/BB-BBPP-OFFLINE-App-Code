@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 17 copy 15 instance 10000",
+	"frame": {"x":0,"y":0,"w":41,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10001",
+	"frame": {"x":41,"y":0,"w":37,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10002",
+	"frame": {"x":78,"y":0,"w":38,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10003",
+	"frame": {"x":116,"y":0,"w":38,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10004",
+	"frame": {"x":154,"y":0,"w":38,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10005",
+	"frame": {"x":192,"y":0,"w":37,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10006",
+	"frame": {"x":229,"y":0,"w":37,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10007",
+	"frame": {"x":266,"y":0,"w":37,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10008",
+	"frame": {"x":303,"y":0,"w":37,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}
+,{
+	"filename": "Symbol 17 copy 15 instance 10009",
+	"frame": {"x":340,"y":0,"w":37,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":62},
+	"sourceSize": {"w":41,"h":62}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "0.9.png",
+	"format": "RGBA8888",
+	"size": {"w":389,"h":61},
+	"scale": "1"
+}
+}

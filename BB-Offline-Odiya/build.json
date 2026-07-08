@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathODI.jks",
+            "storePassword": "BBOdiya",
+            "alias": "easymathODI",
+            "password": "BBOdiya",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathODI.jks",
+            "storePassword": "BBOdiya",
+            "alias": "easymathODI",
+            "password": "BBOdiya",
+            "keystoreType": "jks"
+        }
+    }
+}
