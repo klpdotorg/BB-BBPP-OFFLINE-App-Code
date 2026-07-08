@@ -1,0 +1,147 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 instance 10000",
+	"frame": {"x":0,"y":0,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10001",
+	"frame": {"x":129,"y":0,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10002",
+	"frame": {"x":258,"y":0,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10003",
+	"frame": {"x":0,"y":78,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10004",
+	"frame": {"x":129,"y":78,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10005",
+	"frame": {"x":258,"y":78,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10006",
+	"frame": {"x":0,"y":156,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10007",
+	"frame": {"x":129,"y":156,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10008",
+	"frame": {"x":258,"y":156,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10009",
+	"frame": {"x":0,"y":234,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10010",
+	"frame": {"x":0,"y":312,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10011",
+	"frame": {"x":0,"y":390,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10012",
+	"frame": {"x":129,"y":234,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10013",
+	"frame": {"x":258,"y":234,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10014",
+	"frame": {"x":129,"y":312,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10015",
+	"frame": {"x":258,"y":312,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}
+,{
+	"filename": "Symbol 6 instance 10016",
+	"frame": {"x":129,"y":390,"w":129,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":78},
+	"sourceSize": {"w":129,"h":78}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "fish 1b.png",
+	"format": "RGB8",
+	"size": {"w":402,"h":491},
+	"scale": "1"
+}
+}

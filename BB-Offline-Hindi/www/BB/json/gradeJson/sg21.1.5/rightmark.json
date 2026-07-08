@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 14 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":67,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":70},
+	"sourceSize": {"w":67,"h":70}
+}
+,{
+	"filename": "Symbol 14 copy instance 10001",
+	"frame": {"x":0,"y":70,"w":67,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":70},
+	"sourceSize": {"w":67,"h":70}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Right Button.png",
+	"format": "RGBA8888",
+	"size": {"w":71,"h":143},
+	"scale": "1"
+}
+}

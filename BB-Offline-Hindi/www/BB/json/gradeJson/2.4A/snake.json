@@ -1,0 +1,171 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 70 instance 10000",
+	"frame": {"x":0,"y":0,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10001",
+	"frame": {"x":737,"y":0,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10002",
+	"frame": {"x":0,"y":106,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10003",
+	"frame": {"x":737,"y":106,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10004",
+	"frame": {"x":0,"y":212,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10005",
+	"frame": {"x":737,"y":212,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10006",
+	"frame": {"x":0,"y":318,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10007",
+	"frame": {"x":737,"y":318,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10008",
+	"frame": {"x":0,"y":424,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10009",
+	"frame": {"x":737,"y":424,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10010",
+	"frame": {"x":0,"y":530,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10011",
+	"frame": {"x":737,"y":530,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10012",
+	"frame": {"x":0,"y":636,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10013",
+	"frame": {"x":737,"y":636,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10014",
+	"frame": {"x":0,"y":742,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10015",
+	"frame": {"x":737,"y":742,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10016",
+	"frame": {"x":0,"y":848,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10017",
+	"frame": {"x":0,"y":954,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10018",
+	"frame": {"x":737,"y":848,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}
+,{
+	"filename": "Symbol 70 instance 10019",
+	"frame": {"x":737,"y":954,"w":737,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":106},
+	"sourceSize": {"w":737,"h":106}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "snake.png",
+	"format": "RGB8",
+	"size": {"w":1554,"h":1106},
+	"scale": "1"
+}
+}

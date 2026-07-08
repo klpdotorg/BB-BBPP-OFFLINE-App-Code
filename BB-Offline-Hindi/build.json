@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathHIN.jks",
+            "storePassword": "BBHindi",
+            "alias": "easymathHIN",
+            "password": "BBHindi",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathHIN.jks",
+            "storePassword": "BBHindi",
+            "alias": "easymathHIN",
+            "password": "BBHindi",
+            "keystoreType": "jks"
+        }
+    }
+}

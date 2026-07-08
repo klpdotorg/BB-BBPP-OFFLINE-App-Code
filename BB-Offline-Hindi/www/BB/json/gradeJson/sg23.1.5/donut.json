@@ -1,0 +1,83 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 13 instance 10000",
+	"frame": {"x":0,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10001",
+	"frame": {"x":143,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10002",
+	"frame": {"x":286,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10003",
+	"frame": {"x":429,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10004",
+	"frame": {"x":572,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10005",
+	"frame": {"x":715,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10006",
+	"frame": {"x":858,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10007",
+	"frame": {"x":1001,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}
+,{
+	"filename": "Symbol 13 instance 10008",
+	"frame": {"x":1144,"y":0,"w":143,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":151},
+	"sourceSize": {"w":143,"h":151}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "1.2.png",
+	"format": "RGBA8888",
+	"size": {"w":1289,"h":167},
+	"scale": "1"
+}
+}
