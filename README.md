@@ -77,7 +77,6 @@ Each `BB-Offline-*` / `BBPP-Offline-*` folder follows the same Cordova layout:
 From inside a specific app folder (e.g. `BB-Offline-Hindi`):
 
 ```bash
-npm install
 cordova platform remove android
 cordova platform add android@14.0.0
 cordova clean android
@@ -107,47 +106,6 @@ cordova plugin add cordova-sqlite-storage@latest
 ### Release signing
 
 Each app folder has its own `build.json` + `.jks` keystore (alias/password are per-app; see `build.json` in that folder — not reproduced here). `cordova build android --release` picks these up automatically.
-
-## Generating a new BB language variant
-
-`BB-Offline-English/generate.js` scaffolds a brand-new `BB-Offline-<Language>` folder from the English template — copying `www`, rewriting the language selector, widget id, package name/displayName, hardcoded storage paths, and generating a fresh keystore.
-
-```bash
-cd BB-Offline-English
-node generate.js Hindi,Kannada,Tamil,Telugu
-node generate.js Hindi --force
-node generate.js Hindi --source "path\to\English" --output-root "path\to\parent"
-node generate.js Hindi --no-keystore   # skip keystore generation if no local JDK
-```
-
-The generated package id (`com.akshara.easymath<CODE>`) must match a Firebase client already registered in `google-services.json` (currently ENG/HIN/KAN/ODI/GUJ/MAR/TEL/TAM/URD); the script warns if you generate a language outside that set. There is no equivalent script for BBPP yet — new BBPP language folders have so far been created by hand.
-
-## Force update mechanism
-
-Update gating is server-driven, checked at app startup (see `index.js`, `nativeapp.js`, `adSplashScreenbb.js` in each app's `www`):
-
-- `android-versionCode` in `config.xml` is the source of truth for the installed build.
-- A remote JSON (hosted on the KLP server), e.g.:
-  ```json
-  {
-    "forceUpdate": true,
-    "minVersionCode": 73,
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.akshara.easymath",
-    "message": "A new version is required to continue."
-  }
-  ```
-- On startup (before entering the game state), the app compares its local `versionCode` against the server's `minVersionCode`. If the local build is older, it shows a blocking "Update Now" screen that opens the Play Store (`market://details?id=<package>`, falling back to `storeUrl`), and re-checks on app resume.
-- Bump `android-versionCode` on every release; raise `minVersionCode` server-side only once you want to force old installs to update.
-
-## Background
-
-The old separate "BB 1-5" and "BB++ 6-8" apps were combined into a single online "Building Blocks 1-8" project (main screen → choose grade 1-5 or 6-8 cloud, each retaining its own database/assets/telemetry). This repository is the **offline, per-language** counterpart: instead of one combined online app, BB and BBPP are built and shipped as separate per-language Cordova/Android apps, each still carrying both `www/BB` and `www/BBPP` game trees from the shared template.
-
-Notable past fixes worth knowing about when touching these projects:
-
-- **16 KB page size Play Store rejection** ("app does not support 16 KB memory page sizes"): fixed by bumping `cordova-android` and re-adding the platform (`cordova platform remove android && cordova platform add android@14.0.0`), and setting `android-targetSdkVersion` to 36.
-- **Cordova default splash screen** (couldn't be removed on newer Cordova/Android): replaced with the app icon via `res/screen/android/*.png` + `AndroidWindowSplashScreenAnimatedIcon` / `AndroidWindowSplashScreenBackground` preferences in `config.xml`.
-- Planned/tracked items (per engineering notes): push notifications + mandatory updates (see internal "Push Notification in BB App" doc), push notification analytics, a secure back-end admin portal, force-update (implemented, see above), logo/avatar rework, removing the pop-up quiz, and tagging telemetry with grade (1 for BB, 6 for BBPP) alongside device id/name.
 
 ## Related repositories
 
