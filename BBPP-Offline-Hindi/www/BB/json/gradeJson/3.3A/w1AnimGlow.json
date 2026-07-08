@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 26 copy 2 instance 10000",
+	"frame": {"x":424,"y":0,"w":61,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":185,"h":62},
+	"sourceSize": {"w":185,"h":62}
+}
+,{
+	"filename": "Symbol 26 copy 2 instance 10001",
+	"frame": {"x":325,"y":0,"w":99,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":185,"h":62},
+	"sourceSize": {"w":185,"h":62}
+}
+,{
+	"filename": "Symbol 26 copy 2 instance 10002",
+	"frame": {"x":185,"y":0,"w":140,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":185,"h":62},
+	"sourceSize": {"w":185,"h":62}
+}
+,{
+	"filename": "Symbol 26 copy 2 instance 10003",
+	"frame": {"x":0,"y":0,"w":185,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":62},
+	"sourceSize": {"w":185,"h":62}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "all glow.png",
+	"format": "RGBA8888",
+	"size": {"w":537,"h":63},
+	"scale": "1"
+}
+}

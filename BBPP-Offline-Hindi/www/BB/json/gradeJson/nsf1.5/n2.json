@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 copy 7 instance 10000",
+	"frame": {"x":0,"y":0,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10001",
+	"frame": {"x":0,"y":325,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10002",
+	"frame": {"x":0,"y":650,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10003",
+	"frame": {"x":0,"y":975,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10004",
+	"frame": {"x":0,"y":1300,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10005",
+	"frame": {"x":326,"y":0,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10006",
+	"frame": {"x":326,"y":325,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10007",
+	"frame": {"x":326,"y":650,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10008",
+	"frame": {"x":326,"y":975,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}
+,{
+	"filename": "Symbol 6 copy 7 instance 10009",
+	"frame": {"x":326,"y":1300,"w":326,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":325},
+	"sourceSize": {"w":326,"h":325}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "2.png",
+	"format": "RGBA8888",
+	"size": {"w":995,"h":1721},
+	"scale": "1"
+}
+}

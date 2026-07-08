@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "hibbplusplusoff.jks",
+            "storePassword": "hibbplusplusoff",
+            "alias": "hibbplusplusoff",
+            "password" : "hibbplusplusoff",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "hibbplusplusoff.jks",
+            "storePassword": "hibbplusplusoff",
+            "alias": "hibbplusplusoff",
+            "password" : "hibbplusplusoff",  
+            "keystoreType": "jks"
+        }
+    }
+}

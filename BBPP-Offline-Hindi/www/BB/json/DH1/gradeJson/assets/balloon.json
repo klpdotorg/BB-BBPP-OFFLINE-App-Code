@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 46 instance 10000",
+	"frame": {"x":0,"y":0,"w":76,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":113},
+	"sourceSize": {"w":76,"h":113}
+}
+,{
+	"filename": "Symbol 46 instance 10001",
+	"frame": {"x":0,"y":113,"w":76,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":113},
+	"sourceSize": {"w":76,"h":113}
+}
+,{
+	"filename": "Symbol 46 instance 10002",
+	"frame": {"x":76,"y":0,"w":76,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":113},
+	"sourceSize": {"w":76,"h":113}
+}
+,{
+	"filename": "Symbol 46 instance 10003",
+	"frame": {"x":76,"y":113,"w":76,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":113},
+	"sourceSize": {"w":76,"h":113}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "19.2.1.408",
+	"image": "14.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

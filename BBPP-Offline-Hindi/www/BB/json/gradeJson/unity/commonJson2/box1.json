@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 11 instance 10000",
+	"frame": {"x":0,"y":0,"w":69,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":12,"w":97,"h":73},
+	"sourceSize": {"w":97,"h":73}
+}
+,{
+	"filename": "Symbol 11 instance 10001",
+	"frame": {"x":0,"y":45,"w":97,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":73},
+	"sourceSize": {"w":97,"h":73}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "box1.png",
+	"format": "RGB8",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 56 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10001",
+	"frame": {"x":0,"y":251,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10002",
+	"frame": {"x":193,"y":0,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10003",
+	"frame": {"x":193,"y":251,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10004",
+	"frame": {"x":386,"y":0,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10005",
+	"frame": {"x":386,"y":251,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10006",
+	"frame": {"x":579,"y":0,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10007",
+	"frame": {"x":772,"y":0,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10008",
+	"frame": {"x":579,"y":251,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}
+,{
+	"filename": "Symbol 56 copy instance 10009",
+	"frame": {"x":772,"y":251,"w":193,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":251},
+	"sourceSize": {"w":193,"h":251}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "m10.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":591},
+	"scale": "1"
+}
+}
