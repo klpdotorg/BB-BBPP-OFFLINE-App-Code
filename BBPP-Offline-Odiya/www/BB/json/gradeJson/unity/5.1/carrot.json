@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 instance 10000",
+	"frame": {"x":0,"y":0,"w":58,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":151},
+	"sourceSize": {"w":58,"h":151}
+}
+,{
+	"filename": "Symbol 1 instance 10001",
+	"frame": {"x":58,"y":0,"w":58,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":151},
+	"sourceSize": {"w":58,"h":151}
+}
+,{
+	"filename": "Symbol 1 instance 10002",
+	"frame": {"x":116,"y":0,"w":58,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":151},
+	"sourceSize": {"w":58,"h":151}
+}
+,{
+	"filename": "Symbol 1 instance 10003",
+	"frame": {"x":174,"y":0,"w":58,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":151},
+	"sourceSize": {"w":58,"h":151}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "carrot.png",
+	"format": "RGB8",
+	"size": {"w":232,"h":156},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 17 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":38,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":53},
+	"sourceSize": {"w":38,"h":53}
+}
+,{
+	"filename": "Symbol 17 copy instance 10001",
+	"frame": {"x":0,"y":53,"w":38,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":53},
+	"sourceSize": {"w":38,"h":53}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "2.png",
+	"format": "RGB8",
+	"size": {"w":49,"h":111},
+	"scale": "1"
+}
+}

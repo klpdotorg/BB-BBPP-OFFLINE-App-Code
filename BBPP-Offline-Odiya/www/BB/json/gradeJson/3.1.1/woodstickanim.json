@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 5 instance 10000",
+	"frame": {"x":0,"y":0,"w":126,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":29,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10001",
+	"frame": {"x":0,"y":13,"w":130,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":25,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10002",
+	"frame": {"x":0,"y":30,"w":130,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10003",
+	"frame": {"x":0,"y":54,"w":136,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10004",
+	"frame": {"x":0,"y":83,"w":136,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10005",
+	"frame": {"x":0,"y":112,"w":136,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10006",
+	"frame": {"x":0,"y":145,"w":136,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10007",
+	"frame": {"x":0,"y":179,"w":138,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10008",
+	"frame": {"x":0,"y":213,"w":138,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10009",
+	"frame": {"x":0,"y":253,"w":140,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}
+,{
+	"filename": "Symbol 5 instance 10010",
+	"frame": {"x":0,"y":295,"w":140,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":43},
+	"sourceSize": {"w":140,"h":43}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "wood stick anim.png",
+	"format": "RGBA8888",
+	"size": {"w":142,"h":342},
+	"scale": "1"
+}
+}

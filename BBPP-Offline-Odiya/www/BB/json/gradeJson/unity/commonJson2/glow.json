@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 8 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":115,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":56},
+	"sourceSize": {"w":115,"h":56}
+}
+,{
+	"filename": "Symbol 8 copy instance 10001",
+	"frame": {"x":0,"y":56,"w":115,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":56},
+	"sourceSize": {"w":115,"h":56}
+}
+,{
+	"filename": "Symbol 8 copy instance 10002",
+	"frame": {"x":0,"y":112,"w":115,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":56},
+	"sourceSize": {"w":115,"h":56}
+}
+,{
+	"filename": "Symbol 8 copy instance 10003",
+	"frame": {"x":0,"y":168,"w":115,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":56},
+	"sourceSize": {"w":115,"h":56}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "123.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":236},
+	"scale": "1"
+}
+}
