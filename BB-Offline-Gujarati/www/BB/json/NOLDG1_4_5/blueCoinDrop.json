@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10001",
+	"frame": {"x":46,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10002",
+	"frame": {"x":92,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10003",
+	"frame": {"x":138,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10004",
+	"frame": {"x":184,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10005",
+	"frame": {"x":230,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10006",
+	"frame": {"x":276,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10007",
+	"frame": {"x":322,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10008",
+	"frame": {"x":368,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}
+,{
+	"filename": "Symbol 1 copy instance 10009",
+	"frame": {"x":414,"y":0,"w":46,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":180},
+	"sourceSize": {"w":46,"h":180}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "blue drop.png",
+	"format": "RGBA8888",
+	"size": {"w":478,"h":189},
+	"scale": "1"
+}
+}

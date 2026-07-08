@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "easymathGUJ.jks",
+            "storePassword": "BBGujarati",
+            "alias": "easymathGUJ",
+            "password": "BBGujarati",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "easymathGUJ.jks",
+            "storePassword": "BBGujarati",
+            "alias": "easymathGUJ",
+            "password": "BBGujarati",
+            "keystoreType": "jks"
+        }
+    }
+}

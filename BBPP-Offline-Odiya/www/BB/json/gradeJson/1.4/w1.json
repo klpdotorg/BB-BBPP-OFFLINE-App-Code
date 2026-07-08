@@ -1,0 +1,67 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 69 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}
+,{
+	"filename": "Symbol 69 copy instance 10001",
+	"frame": {"x":88,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}
+,{
+	"filename": "Symbol 69 copy instance 10002",
+	"frame": {"x":176,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}
+,{
+	"filename": "Symbol 69 copy instance 10003",
+	"frame": {"x":264,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}
+,{
+	"filename": "Symbol 69 copy instance 10004",
+	"frame": {"x":352,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}
+,{
+	"filename": "Symbol 69 copy instance 10005",
+	"frame": {"x":440,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}
+,{
+	"filename": "Symbol 69 copy instance 10006",
+	"frame": {"x":528,"y":0,"w":88,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":187},
+	"sourceSize": {"w":88,"h":187}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "2.png",
+	"format": "RGB8",
+	"size": {"w":683,"h":191},
+	"scale": "1"
+}
+}

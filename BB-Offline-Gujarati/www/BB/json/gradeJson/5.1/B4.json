@@ -1,0 +1,163 @@
+﻿{"frames": [
+
+{
+	"filename": "blank",
+	"frame": {"x":0,"y":0,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_mrng1",
+	"frame": {"x":175,"y":0,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_mrng2",
+	"frame": {"x":350,"y":0,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_mrng3",
+	"frame": {"x":525,"y":0,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_mrng4",
+	"frame": {"x":700,"y":0,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_mrng5",
+	"frame": {"x":0,"y":232,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_day1",
+	"frame": {"x":175,"y":232,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_day2",
+	"frame": {"x":350,"y":232,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_day3",
+	"frame": {"x":525,"y":232,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_day4",
+	"frame": {"x":700,"y":232,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_day5",
+	"frame": {"x":0,"y":464,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_evng1",
+	"frame": {"x":175,"y":464,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_evng2",
+	"frame": {"x":350,"y":464,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_evng3",
+	"frame": {"x":525,"y":464,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_evng4",
+	"frame": {"x":700,"y":464,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_night1",
+	"frame": {"x":0,"y":696,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_night2",
+	"frame": {"x":175,"y":696,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_night3",
+	"frame": {"x":350,"y":696,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}
+,{
+	"filename": "Level5.1_night4",
+	"frame": {"x":525,"y":696,"w":175,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":232},
+	"sourceSize": {"w":175,"h":232}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "4.png",
+	"format": "RGBA8888",
+	"size": {"w":946,"h":975},
+	"scale": "1"
+}
+}

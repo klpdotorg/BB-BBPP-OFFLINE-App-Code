@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 17 copy 14 instance 10000",
+	"frame": {"x":0,"y":0,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10001",
+	"frame": {"x":58,"y":0,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10002",
+	"frame": {"x":116,"y":0,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10003",
+	"frame": {"x":174,"y":0,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10004",
+	"frame": {"x":0,"y":65,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10005",
+	"frame": {"x":58,"y":65,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10006",
+	"frame": {"x":116,"y":65,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10007",
+	"frame": {"x":174,"y":65,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10008",
+	"frame": {"x":0,"y":130,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}
+,{
+	"filename": "Symbol 17 copy 14 instance 10009",
+	"frame": {"x":58,"y":130,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":65},
+	"sourceSize": {"w":58,"h":65}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Number Pad.png",
+	"format": "RGBA8888",
+	"size": {"w":238,"h":200},
+	"scale": "1"
+}
+}

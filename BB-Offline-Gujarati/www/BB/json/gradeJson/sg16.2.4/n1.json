@@ -1,0 +1,91 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 21 instance 10000",
+	"frame": {"x":0,"y":0,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10001",
+	"frame": {"x":333,"y":0,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10002",
+	"frame": {"x":666,"y":0,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10003",
+	"frame": {"x":0,"y":325,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10004",
+	"frame": {"x":333,"y":325,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10005",
+	"frame": {"x":666,"y":325,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10006",
+	"frame": {"x":0,"y":650,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10007",
+	"frame": {"x":333,"y":650,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10008",
+	"frame": {"x":666,"y":650,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}
+,{
+	"filename": "Symbol 21 instance 10009",
+	"frame": {"x":0,"y":975,"w":333,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":325},
+	"sourceSize": {"w":333,"h":325}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "n1.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}
